@@ -171,6 +171,9 @@ This gem also includes a responders controller generator, so your scaffold can b
 to use `respond_with` instead of default `respond_to` blocks. Installing this gem automatically
 sets the generator.
 
+Where responders scaffold templates should place?
+    `lib/templates/rails/responders_controller/controller.rb`
+
 ## Examples
 
 Want more examples ? Check out this blog posts:
